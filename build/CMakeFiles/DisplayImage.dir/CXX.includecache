@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/e/Development/netDetection/main.cpp
+opencv2/highgui/highgui.hpp
+/home/e/Development/netDetection/opencv2/highgui/highgui.hpp
+opencv2/calib3d/calib3d.hpp
+/home/e/Development/netDetection/opencv2/calib3d/calib3d.hpp
+opencv2/imgproc/imgproc.hpp
+/home/e/Development/netDetection/opencv2/imgproc/imgproc.hpp
+opencv2/features2d/features2d.hpp
+/home/e/Development/netDetection/opencv2/features2d/features2d.hpp
+opencv2/nonfree/nonfree.hpp
+/home/e/Development/netDetection/opencv2/nonfree/nonfree.hpp
+iostream
+-
+
