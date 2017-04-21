@@ -17,6 +17,14 @@ opencv2/features2d/features2d.hpp
 /home/e/Development/netDetection/opencv2/features2d/features2d.hpp
 opencv2/nonfree/nonfree.hpp
 /home/e/Development/netDetection/opencv2/nonfree/nonfree.hpp
+algorithm
+-
+bits/stdc++.h
+-
+string
+-
+sstream
+-
 iostream
 -
 
